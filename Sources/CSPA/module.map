@@ -1,0 +1,4 @@
+module CSPA [extern_c] {
+    umbrella header "spa.h"
+    export *
+}
